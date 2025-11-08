@@ -5,20 +5,19 @@ Parametric Curve Fitting Solution
 Problem:
 --------
 Given parametric equations:
-    x = t * cos(Î¸) - e^(M|t|) * sin(0.3t) * sin(Î¸) + X
-    y = 42 + t * sin(Î¸) + e^(M|t|) * sin(0.3t) * cos(Î¸)
+    x=\left(t*\cos(\theta)-e^{M\left|t\right|}\cdot\sin(0.3t)\sin(\theta)\ +X \right )
+    y = \left (42 + t*\sin(\theta)+e^{M\left|t\right|}\cdot\sin(0.3t)\cos(\theta)\right)
 
 Where:
-    -> 0° < θ < 50° 
-    -> -0.05 < M < 0.05 (exponential coefficient)
-    -> 0 < X < 100 
-    -> 6 < t < 60 (parameter range)
+  0 \deg<\theta<50 \deg \\
+  -0.05<M<0.05 \\
+  0<X<100\\
 
 Objective:
 ----------
 Finding the values of unknown variables in the given parametric equation of a curve and 
 minimize the L1 distance between uniformly sampled points on the curve and data points.
-------------------------------------------------------------------------------------------------------------------------------------
+
 Approach
 ---------
 ---> Step 1: Understanding the Problem:
