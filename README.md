@@ -1,17 +1,6 @@
 # Assignment for Research and Development/AI
 Parametric Curve Fitting Solution
-==================================
-
-Problem:
---------
-Given parametric equations:
-    x=\left(t*\cos(\theta)-e^{M\left|t\right|}\cdot\sin(0.3t)\sin(\theta)\ +X \right )
-    y = \left (42 + t*\sin(\theta)+e^{M\left|t\right|}\cdot\sin(0.3t)\cos(\theta)\right)
-
-Where:
-  0 \deg<\theta<50 \deg \\
-  -0.05<M<0.05 \\
-  0<X<100\\
+=================================
 
 Objective:
 ----------
