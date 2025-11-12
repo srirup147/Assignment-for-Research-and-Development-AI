@@ -35,7 +35,7 @@ Step 3:
 Result:
 -------
 
-θ = 29.9994° = 0.523589 radians
-M = 0.030001
-X = 54.998520
-Desmos Link : https://www.desmos.com/calculator/qrunxapuk1
+1) θ = 29.9994° = 0.523589 radians
+2) M = 0.030001
+3) X = 54.998520
+4) Desmos Link : https://www.desmos.com/calculator/qrunxapuk1
