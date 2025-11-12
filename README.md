@@ -30,3 +30,12 @@ Methodology:
 7) Then i have extracted the best parameters.
 8) After that i have validated the result by numerical and visual methods.
 
+Step 3:
+-------
+Result:
+-------
+
+θ = 29.9994° = 0.523589 radians
+M = 0.030001
+X = 54.998520
+Desmos Link : https://www.desmos.com/calculator/qrunxapuk1
